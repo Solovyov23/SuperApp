@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Soloviov</string>
+    <string name="title_geonames">Geonames</string>
+    <string name="title_gyroscope">Gyroscope</string>
+    <string name="title_loader">Loader</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="http">http://</string>
+    <string name="http_myimages_zip">http://rgho.st/download/7jTCc2TtZ/9cbb8e1e7641c6bc8ff25ee5aff675543af34491/MyImages.zip</string>
+    <string name="city">City...</string>
+    <string name="downloading_file_please_wait">Downloading file. Please wait...</string>
+    <string name="delete">Delete?</string>
+    <string name="are_you_sure_you_want_to_delete">Are you sure you want to delete</string>
+    <string name="сancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="deleted">Deleted:</string>
+    <string name="added">Added:</string>
+    <string name="problem_creating_zip_folder">Problem creating zip folder</string>
+    <string name="failed_to_ensure_directory">Failed to ensure directory:</string>
+</resources>
